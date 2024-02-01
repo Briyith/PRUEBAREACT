@@ -37,7 +37,8 @@ enExpress o cualquier framework de su preferencia, pero no en React.
 2. Instalar dependecias tanto cliente como servidor con npm install
 3. Crear Base de datos y configurar las variables de conecxion en el servidor
 4. Para el usuario Admin crearlo con el nombre de usario ## admin ##
- ![image](https://github.com/Briyith/PRUEBAREACT/assets/36850688/4ddfe60a-2680-44e1-9c20-362a1508b3c3)
+
+![image](https://github.com/Briyith/PRUEBAREACT/assets/36850688/3b4d6c6d-0e65-4175-a98b-dc22251cb2e9)
 
 ### Pruebas Postman
 
