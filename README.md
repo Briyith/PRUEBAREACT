@@ -7,17 +7,29 @@ La Empresa tiene diversas prendas, agrupadas en categorías que desea mostrar po
 medio de Internet, para ello requiere el desarrollo de una página web donde pueda
 visualizar dichas prendas, a su vez que un administrador pueda editar los productos. Para
 ello se tienen los siguientes requisitos:
+
 ● Debe haber dos tipos de usuarios, administrador y cliente.
+
 ● En este caso el registro de los usuarios será de forma manual en la BD.
+
 ● El administrador debe poder agregar, editar y eliminar productos.
+
 ● Mostrar los productos por categoría.
+
 ● Cada producto debe mostrarse con precio, referencia, talla y color. No tenga
+
 encuenta unidades ya que en esta ocasión no se venderá.
+
 ● Cada producto debe tener al menos una foto.
+
 ● Las conexiones a la base de datos deben hacerse por medio de una API
+
 enExpress o cualquier framework de su preferencia, pero no en React.
+
+
 ## Notas:
 ● Utilice librerías de NPM si lo desea.
+
 ● Puede utilizar cualquier base de datos, sea relacional o NoSQL
 
 # Instalación
@@ -25,3 +37,9 @@ enExpress o cualquier framework de su preferencia, pero no en React.
 2. Instalar dependecias tanto cliente como servidor con npm install
 3. Crear Base de datos y configurar las variables de conecxion en el servidor
 4. Para el usuario Admin crearlo con el nombre de usario ## admin ##
+ ![image](https://github.com/Briyith/PRUEBAREACT/assets/36850688/4ddfe60a-2680-44e1-9c20-362a1508b3c3)
+
+### Pruebas Postman
+
+https://documenter.getpostman.com/view/10653350/2s9Yyv9z9F
+
